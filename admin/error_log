@@ -1,0 +1,1198 @@
+[04-Feb-2021 11:29:21 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:29:21 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[04-Feb-2021 11:29:21 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[04-Feb-2021 11:29:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[04-Feb-2021 11:29:38 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:29:39 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:29:39 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 102
+[04-Feb-2021 11:29:39 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 103
+[04-Feb-2021 11:29:39 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 104
+[04-Feb-2021 11:30:06 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:30:06 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 102
+[04-Feb-2021 11:30:06 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 103
+[04-Feb-2021 11:30:06 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 104
+[04-Feb-2021 11:35:59 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:35:59 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 102
+[04-Feb-2021 11:35:59 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 103
+[04-Feb-2021 11:35:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 104
+[04-Feb-2021 11:38:23 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:38:23 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 102
+[04-Feb-2021 11:38:23 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 103
+[04-Feb-2021 11:38:23 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/shipping-cost.php on line 104
+[04-Feb-2021 11:40:46 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:46:37 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:48:05 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:51:10 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:52:29 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:52:59 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 11:56:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:30:56 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:30:56 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[04-Feb-2021 16:30:56 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[04-Feb-2021 16:30:56 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[04-Feb-2021 16:31:44 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:31:44 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[04-Feb-2021 16:31:44 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[04-Feb-2021 16:31:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[04-Feb-2021 16:31:51 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:31:51 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[04-Feb-2021 16:31:51 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[04-Feb-2021 16:31:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[04-Feb-2021 16:32:07 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:32:09 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:32:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:32:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:33:10 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:33:10 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'AzurehDB.tbl_product_color' doesn't exist in /home/wl22o7zzxho4/public_html/admin/product-edit.php:281
+Stack trace:
+#0 /home/wl22o7zzxho4/public_html/admin/product-edit.php(281): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 281
+[04-Feb-2021 16:33:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:33:57 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 384
+[04-Feb-2021 16:34:23 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:34:23 Asia/Manila] PHP Notice:  Undefined index: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 116
+[04-Feb-2021 16:34:23 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p_qty' in 'field list' in /home/wl22o7zzxho4/public_html/admin/product-edit.php:125
+Stack trace:
+#0 /home/wl22o7zzxho4/public_html/admin/product-edit.php(125): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 125
+[04-Feb-2021 16:34:52 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:34:52 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 384
+[04-Feb-2021 16:35:08 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:35:08 Asia/Manila] PHP Notice:  Undefined index: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 116
+[04-Feb-2021 16:35:08 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p_qty' in 'field list' in /home/wl22o7zzxho4/public_html/admin/product-edit.php:125
+Stack trace:
+#0 /home/wl22o7zzxho4/public_html/admin/product-edit.php(125): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 125
+[04-Feb-2021 16:35:20 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:35:20 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[04-Feb-2021 16:35:21 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:35:21 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[04-Feb-2021 16:35:35 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:35:35 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[04-Feb-2021 16:35:39 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:35:48 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:38:25 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:38:31 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:43:25 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:45:19 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:45:23 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:46:07 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:46:40 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:46:40 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:47:00 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:07 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:10 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:13 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[04-Feb-2021 16:48:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:18 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[04-Feb-2021 16:48:21 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:48 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:48:51 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:49:16 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:49:24 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:58:23 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:58:23 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[04-Feb-2021 16:58:23 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[04-Feb-2021 16:58:23 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[04-Feb-2021 16:58:37 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:58:37 Asia/Manila] PHP Notice:  Undefined variable: googleplus in /home/wl22o7zzxho4/public_html/admin/social-media.php on line 90
+[04-Feb-2021 16:58:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:58:57 Asia/Manila] PHP Notice:  Undefined variable: googleplus in /home/wl22o7zzxho4/public_html/admin/social-media.php on line 90
+[04-Feb-2021 16:59:09 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 16:59:25 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 17:05:29 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 17:16:39 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[04-Feb-2021 17:16:39 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[04-Feb-2021 17:16:39 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[04-Feb-2021 17:16:39 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Notice:  Undefined index: full_name in /home/wl22o7zzxho4/public_html/admin/header.php on line 84
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 11:34:30 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 11:34:30 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 13:02:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:02:34 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 13:02:52 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:02:52 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:02:52 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:0
+[08-Feb-2021 13:02:52 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:1
+[08-Feb-2021 13:03:22 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:03:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:03:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/top-category.php:0
+[08-Feb-2021 13:03:22 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/top-category.php:1
+[08-Feb-2021 13:03:27 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:03:27 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:03:27 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size.php:0
+[08-Feb-2021 13:03:27 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size.php:1
+[08-Feb-2021 13:03:45 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:03:45 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:03:45 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-edit.php:0
+[08-Feb-2021 13:03:45 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-edit.php:1
+[08-Feb-2021 13:03:49 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:03:49 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:03:49 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size.php:0
+[08-Feb-2021 13:03:49 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size.php:1
+[08-Feb-2021 13:03:52 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:03:52 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:03:52 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-edit.php:0
+[08-Feb-2021 13:03:52 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-edit.php:1
+[08-Feb-2021 13:03:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:03:57 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:03:57 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-edit.php:0
+[08-Feb-2021 13:03:57 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-edit.php:1
+[08-Feb-2021 13:04:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:0
+[08-Feb-2021 13:04:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:1
+[08-Feb-2021 13:04:03 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:03 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:03 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size.php:0
+[08-Feb-2021 13:04:03 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size.php:1
+[08-Feb-2021 13:04:05 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:05 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:05 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-edit.php:0
+[08-Feb-2021 13:04:05 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-edit.php:1
+[08-Feb-2021 13:04:06 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:06 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:06 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-edit.php:0
+[08-Feb-2021 13:04:06 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-edit.php:1
+[08-Feb-2021 13:04:09 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:09 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:09 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-edit.php:0
+[08-Feb-2021 13:04:09 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-edit.php:1
+[08-Feb-2021 13:04:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size.php:0
+[08-Feb-2021 13:04:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size.php:1
+[08-Feb-2021 13:04:26 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:26 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size-delete.php:0
+[08-Feb-2021 13:04:26 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size-delete.php:1
+[08-Feb-2021 13:04:26 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:26 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size.php:0
+[08-Feb-2021 13:04:26 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size.php:1
+[08-Feb-2021 13:04:55 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:04:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:04:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:0
+[08-Feb-2021 13:04:55 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:1
+[08-Feb-2021 13:06:01 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:01 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:01 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:06:01 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:06:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-edit.php:0
+[08-Feb-2021 13:06:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-edit.php:1
+[08-Feb-2021 13:06:18 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[08-Feb-2021 13:06:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-edit.php:0
+[08-Feb-2021 13:06:20 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:20 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:20 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:06:20 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:06:22 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-edit.php:0
+[08-Feb-2021 13:06:22 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-edit.php:1
+[08-Feb-2021 13:06:22 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[08-Feb-2021 13:06:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-edit.php:0
+[08-Feb-2021 13:06:33 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:33 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:33 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-edit.php:0
+[08-Feb-2021 13:06:33 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-edit.php:1
+[08-Feb-2021 13:06:33 Asia/Manila] PHP Notice:  Undefined variable: p_qty in /home/wl22o7zzxho4/public_html/admin/product-edit.php on line 382
+[08-Feb-2021 13:06:33 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:33 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-edit.php:0
+[08-Feb-2021 13:06:35 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:35 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:35 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:06:35 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:06:58 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:06:58 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:06:58 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-delete.php:0
+[08-Feb-2021 13:06:58 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-delete.php:1
+[08-Feb-2021 13:06:58 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'AzurehDB.tbl_product_color' doesn't exist in /home/wl22o7zzxho4/public_html/admin/product-delete.php:53
+Stack trace:
+#0 /home/wl22o7zzxho4/public_html/admin/product-delete.php(53): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/wl22o7zzxho4/public_html/admin/product-delete.php on line 53
+[08-Feb-2021 13:07:37 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:07:37 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:07:37 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:07:37 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:07:41 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:07:41 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:07:41 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:07:41 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:07:47 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:07:47 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:07:47 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-delete.php:0
+[08-Feb-2021 13:07:47 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-delete.php:1
+[08-Feb-2021 13:07:47 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:07:47 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:07:47 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:07:47 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:07:59 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:07:59 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:07:59 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:07:59 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:08:00 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:08:00 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:08:00 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[08-Feb-2021 13:08:00 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
+[08-Feb-2021 13:08:42 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:08:42 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:08:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[08-Feb-2021 13:08:42 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
+[08-Feb-2021 13:08:42 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:08:42 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:08:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[08-Feb-2021 13:08:42 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[08-Feb-2021 13:08:50 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:08:50 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:08:50 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/stock.php:0
+[08-Feb-2021 13:08:50 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/stock.php:1
+[08-Feb-2021 13:09:33 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:09:33 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:09:33 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:09:33 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 13:24:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 13:24:22 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 13:24:26 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:24:26 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 13:24:26 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:29 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:24:29 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Notice:  Undefined index: full_name in /home/wl22o7zzxho4/public_html/admin/order.php on line 135
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:29 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:29 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Notice:  Undefined index: payment_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 153
+[08-Feb-2021 13:24:29 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:24:29 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:25:46 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:25:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:25:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:25:46 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:25:46 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:25:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:25:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:25:46 Asia/Manila] PHP Notice:  Undefined index: payment_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 153
+[08-Feb-2021 13:25:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:25:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:27:08 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:27:08 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:27:08 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:27:08 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:27:08 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:27:08 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:27:08 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:27:26 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:27:26 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:27:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:27:26 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:27:26 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:27:26 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:27:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:28:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:28:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:28:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:28:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:28:18 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:28:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:28:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:29:25 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:29:25 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:29:25 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:29:25 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:29:25 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:29:25 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:29:25 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:30:32 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:30:32 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:30:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:30:32 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:31:39 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:31:39 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:31:39 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:31:39 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:32:49 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:32:49 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:32:49 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 13:32:49 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 13:33:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:33:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:33:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 13:33:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 13:33:51 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:33:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:33:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:33:51 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:33:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:33:57 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:33:57 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 13:33:57 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 13:34:26 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:34:26 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:34:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 13:34:26 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 13:34:34 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:34:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:34:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:34:34 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:34:34 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:34:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:34:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:34:55 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:34:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:34:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:34:55 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:34:55 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 152
+[08-Feb-2021 13:34:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:34:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:36:06 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:36:06 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:36:06 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:36:06 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:36:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:36:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:36:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:36:13 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:36:16 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:36:16 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:36:16 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 13:36:16 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 13:36:19 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:36:19 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:36:19 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:36:19 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:40:28 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:40:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:40:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:40:28 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:43:14 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:43:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:43:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:43:14 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:43:14 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 147
+[08-Feb-2021 13:43:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:43:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:44:36 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:44:36 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:44:36 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:44:36 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:44:36 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 147
+[08-Feb-2021 13:44:36 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:44:36 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:44:49 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:44:49 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:44:49 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:44:49 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:44:49 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/order.php on line 147
+[08-Feb-2021 13:44:49 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:44:49 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:51:21 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:51:21 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:51:21 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:51:21 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:54:03 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:54:03 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:54:03 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:54:03 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:54:04 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:54:04 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:54:04 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:54:04 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:58:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:58:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:58:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:58:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:59:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:59:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:59:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:59:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 13:59:31 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 13:59:31 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 13:59:31 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 13:59:31 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:00:25 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:00:25 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:00:25 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:00:25 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:24:54 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:24:54 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:24:54 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:0
+[08-Feb-2021 14:24:54 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:1
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 14:25:10 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:10 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 14:25:12 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:25:12 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:12 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:25:12 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:25:14 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:25:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:0
+[08-Feb-2021 14:25:14 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:1
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 14:25:32 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:25:32 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 14:25:46 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:25:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:25:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:25:46 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:28:08 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:28:08 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:28:08 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:28:08 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:28:22 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:28:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:28:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-pending-delete.php:0
+[08-Feb-2021 14:28:22 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-pending-delete.php:1
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 14:31:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 14:31:13 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 14:31:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:31:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:31:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:31:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:32:16 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:32:16 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:32:16 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:32:16 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:33:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:33:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:33:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 14:33:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 14:33:21 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 14:33:21 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 14:33:21 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/stock.php:0
+[08-Feb-2021 14:33:21 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/stock.php:1
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 15:04:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:04:02 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 15:04:10 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:04:10 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:04:10 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 15:04:10 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 15:04:53 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:04:53 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:04:53 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 15:04:53 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 15:06:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:06:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:06:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:0
+[08-Feb-2021 15:06:13 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:1
+[08-Feb-2021 15:06:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:06:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:06:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 15:06:13 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 15:09:53 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:09:53 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:09:53 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-pending-delete.php:0
+[08-Feb-2021 15:09:53 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-pending-delete.php:1
+[08-Feb-2021 15:09:54 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:09:54 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:09:54 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 15:09:54 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 15:35:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 15:35:18 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 15:35:20 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:35:20 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:35:20 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 15:35:20 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 15:35:39 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 15:35:39 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 15:35:39 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 15:35:39 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:09:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:09:51 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:09:56 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:09:56 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:09:56 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:09:56 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:10:56 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:10:56 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:10:56 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:0
+[08-Feb-2021 16:10:56 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:1
+[08-Feb-2021 16:10:56 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:10:56 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:10:56 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:10:56 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:17:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:17:40 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:17:44 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:17:44 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:44 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:17:44 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:17:52 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:17:52 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:52 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delete.php:0
+[08-Feb-2021 16:17:52 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delete.php:1
+[08-Feb-2021 16:17:52 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:17:52 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:17:52 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:17:52 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:18:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:18:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:0
+[08-Feb-2021 16:18:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:1
+[08-Feb-2021 16:18:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:18:02 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:18:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:18:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:18:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-complete.php:0
+[08-Feb-2021 16:18:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-complete.php:1
+[08-Feb-2021 16:18:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:18:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:18:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:18:14 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Notice:  Undefined index: full_name in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 69
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 86
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Notice:  Undefined index: payment_id in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 87
+[08-Feb-2021 16:18:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:18:22 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:18:22 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:18:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:18:22 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:29:03 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:03 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:29:07 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:07 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:07 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:29:07 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:29:09 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:09 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:09 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:0
+[08-Feb-2021 16:29:09 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-delivered.php:1
+[08-Feb-2021 16:29:09 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:09 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:09 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:29:09 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:29:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order-complete.php:0
+[08-Feb-2021 16:29:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order-complete.php:1
+[08-Feb-2021 16:29:12 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:12 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:12 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/order.php:0
+[08-Feb-2021 16:29:12 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/order.php:1
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Notice:  Undefined index: full_name in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 69
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 86
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Notice:  Undefined index: payment_id in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 87
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Notice:  Undefined index: full_name in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 69
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Notice:  Undefined index: customer_id in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 86
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Notice:  Undefined index: payment_id in /home/wl22o7zzxho4/public_html/admin/completeorder.php on line 87
+[08-Feb-2021 16:29:14 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:29:18 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:29:18 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:36:05 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:05 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:36:55 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:36:55 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:38:35 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:38:35 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:39:51 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:39:51 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:40:15 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:40:15 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:42:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:28 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:42:40 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:42:40 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[08-Feb-2021 16:44:34 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:34 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:69
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[08-Feb-2021 16:44:54 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:44:54 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:69
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[08-Feb-2021 16:47:13 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:13 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:69
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[08-Feb-2021 16:47:42 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:47:42 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:69
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 69
+[08-Feb-2021 16:48:11 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:11 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:69
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Notice:  Undefined variable: connect in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 67
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:67
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 68
+[08-Feb-2021 16:48:28 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:48:28 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:68
+[08-Feb-2021 16:49:58 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:49:58 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:49:58 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:49:58 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 81
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:81
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 82
+[08-Feb-2021 16:55:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:55:46 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:82
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wl22o7zzxho4/public_html/admin/index.php on line 8
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   2. mysqli_connect() /home/wl22o7zzxho4/public_html/admin/index.php:8
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/wl22o7zzxho4/public_html/admin/index.php on line 81
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   2. mysqli_query() /home/wl22o7zzxho4/public_html/admin/index.php:81
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wl22o7zzxho4/public_html/admin/index.php on line 82
+[08-Feb-2021 16:56:01 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:56:01 Asia/Manila] PHP   2. mysqli_fetch_array() /home/wl22o7zzxho4/public_html/admin/index.php:82
+[08-Feb-2021 16:56:46 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:56:46 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:56:46 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 16:56:46 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[08-Feb-2021 16:59:20 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 16:59:20 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 16:59:20 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 16:59:20 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 17:00:48 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 17:00:48 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 17:00:48 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 17:00:48 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 17:01:45 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 17:01:45 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 17:01:45 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/completeorder.php:0
+[08-Feb-2021 17:01:45 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/completeorder.php:1
+[08-Feb-2021 17:02:36 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[08-Feb-2021 17:02:36 Asia/Manila] PHP Stack trace:
+[08-Feb-2021 17:02:36 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[08-Feb-2021 17:02:36 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[09-Feb-2021 08:50:16 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:50:16 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:50:16 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[09-Feb-2021 08:50:16 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[09-Feb-2021 08:50:26 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:50:26 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:50:26 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/size.php:0
+[09-Feb-2021 08:50:26 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/size.php:1
+[09-Feb-2021 08:50:28 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:50:28 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:50:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:0
+[09-Feb-2021 08:50:28 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/shipping-cost.php:1
+[09-Feb-2021 08:50:32 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:50:32 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:50:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[09-Feb-2021 08:50:32 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[09-Feb-2021 08:55:44 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:55:44 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:55:44 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/account.php:0
+[09-Feb-2021 08:55:44 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/account.php:1
+[09-Feb-2021 08:55:49 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:55:49 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:55:49 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/customer.php:0
+[09-Feb-2021 08:55:49 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/customer.php:1
+[09-Feb-2021 08:59:41 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 08:59:41 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 08:59:41 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[09-Feb-2021 08:59:41 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[09-Feb-2021 09:09:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[09-Feb-2021 09:09:02 Asia/Manila] PHP Stack trace:
+[09-Feb-2021 09:09:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[09-Feb-2021 09:09:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
+[11-Feb-2021 08:56:32 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:56:32 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:56:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[11-Feb-2021 08:56:32 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[11-Feb-2021 08:57:00 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:57:00 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:57:00 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 08:57:00 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[11-Feb-2021 08:57:01 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:57:01 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:57:01 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[11-Feb-2021 08:57:01 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
+[11-Feb-2021 08:57:44 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:57:44 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:57:44 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[11-Feb-2021 08:57:44 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
+[11-Feb-2021 08:57:44 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:57:44 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:57:44 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 08:57:44 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[11-Feb-2021 08:57:44 Asia/Manila] PHP Notice:  Undefined index: p_qty in /home/wl22o7zzxho4/public_html/admin/product.php on line 49
+[11-Feb-2021 08:57:44 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:57:44 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 08:59:10 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:59:10 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:59:10 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 08:59:10 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[11-Feb-2021 08:59:32 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:59:32 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:59:32 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 08:59:32 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[11-Feb-2021 08:59:57 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 08:59:57 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 08:59:57 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/stock.php:0
+[11-Feb-2021 08:59:57 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/stock.php:1
+[11-Feb-2021 13:58:05 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 13:58:05 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 13:58:05 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[11-Feb-2021 13:58:05 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[11-Feb-2021 13:58:08 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 13:58:08 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 13:58:08 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 13:58:08 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[11-Feb-2021 13:58:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 13:58:11 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 13:58:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-delete.php:0
+[11-Feb-2021 13:58:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-delete.php:1
+[11-Feb-2021 13:58:11 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 13:58:11 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 13:58:11 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[11-Feb-2021 13:58:11 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[11-Feb-2021 13:58:13 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 13:58:13 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 13:58:13 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/stock.php:0
+[11-Feb-2021 13:58:13 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/stock.php:1
+[11-Feb-2021 14:20:28 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 14:20:28 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:20:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:20:28 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/social-media.php:1
+[11-Feb-2021 14:20:28 Asia/Manila] PHP Notice:  Undefined variable: googleplus in /home/wl22o7zzxho4/public_html/admin/social-media.php on line 90
+[11-Feb-2021 14:20:28 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:20:28 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:20:36 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 14:20:36 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:20:36 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:20:36 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/social-media.php:1
+[11-Feb-2021 14:20:36 Asia/Manila] PHP Notice:  Undefined variable: googleplus in /home/wl22o7zzxho4/public_html/admin/social-media.php on line 90
+[11-Feb-2021 14:20:36 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:20:36 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:22:14 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 14:22:14 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:22:14 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:22:14 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/social-media.php:1
+[11-Feb-2021 14:22:18 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 14:22:18 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:22:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:22:18 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/social-media.php:1
+[11-Feb-2021 14:22:18 Asia/Manila] PHP Notice:  Undefined index: googleplus in /home/wl22o7zzxho4/public_html/admin/social-media.php on line 14
+[11-Feb-2021 14:22:18 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:22:18 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:22:59 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 14:22:59 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:22:59 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/social-media.php:0
+[11-Feb-2021 14:22:59 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/social-media.php:1
+[11-Feb-2021 14:23:02 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[11-Feb-2021 14:23:02 Asia/Manila] PHP Stack trace:
+[11-Feb-2021 14:23:02 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[11-Feb-2021 14:23:02 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[13-Feb-2021 10:31:42 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[13-Feb-2021 10:31:42 Asia/Manila] PHP Stack trace:
+[13-Feb-2021 10:31:42 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[13-Feb-2021 10:31:42 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[13-Feb-2021 10:31:51 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[13-Feb-2021 10:31:51 Asia/Manila] PHP Stack trace:
+[13-Feb-2021 10:31:51 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[13-Feb-2021 10:31:51 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[13-Feb-2021 10:32:34 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[13-Feb-2021 10:32:34 Asia/Manila] PHP Stack trace:
+[13-Feb-2021 10:32:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[13-Feb-2021 10:32:34 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
+[17-Feb-2021 15:46:34 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[17-Feb-2021 15:46:34 Asia/Manila] PHP Stack trace:
+[17-Feb-2021 15:46:34 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[17-Feb-2021 15:46:34 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[17-Feb-2021 15:46:38 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[17-Feb-2021 15:46:38 Asia/Manila] PHP Stack trace:
+[17-Feb-2021 15:46:38 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/customer.php:0
+[17-Feb-2021 15:46:38 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/customer.php:1
+[17-Feb-2021 15:46:43 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[17-Feb-2021 15:46:43 Asia/Manila] PHP Stack trace:
+[17-Feb-2021 15:46:43 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/customer-message.php:0
+[17-Feb-2021 15:46:43 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/customer-message.php:1
+[17-Feb-2021 15:46:43 Asia/Manila] PHP Notice:  Undefined index: id in /home/wl22o7zzxho4/public_html/admin/customer-message.php on line 22
+[17-Feb-2021 15:46:43 Asia/Manila] PHP Stack trace:
+[17-Feb-2021 15:46:43 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/customer-message.php:0
+[17-Feb-2021 15:46:43 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'AzurehDB.tbl_customer' doesn't exist in /home/wl22o7zzxho4/public_html/admin/customer-message.php:22
+Stack trace:
+#0 /home/wl22o7zzxho4/public_html/admin/customer-message.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/wl22o7zzxho4/public_html/admin/customer-message.php on line 22
+[19-Feb-2021 08:45:15 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[19-Feb-2021 08:45:15 Asia/Manila] PHP Stack trace:
+[19-Feb-2021 08:45:15 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/index.php:0
+[19-Feb-2021 08:45:15 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/index.php:1
+[19-Feb-2021 08:45:20 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[19-Feb-2021 08:45:20 Asia/Manila] PHP Stack trace:
+[19-Feb-2021 08:45:20 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product.php:0
+[19-Feb-2021 08:45:20 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product.php:1
+[19-Feb-2021 08:45:22 Asia/Manila] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/wl22o7zzxho4/public_html/admin/header.php on line 204
+[19-Feb-2021 08:45:22 Asia/Manila] PHP Stack trace:
+[19-Feb-2021 08:45:22 Asia/Manila] PHP   1. {main}() /home/wl22o7zzxho4/public_html/admin/product-add.php:0
+[19-Feb-2021 08:45:22 Asia/Manila] PHP   2. require_once() /home/wl22o7zzxho4/public_html/admin/product-add.php:1
